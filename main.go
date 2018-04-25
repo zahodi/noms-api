@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/attic-labs/noms/go/spec"
-  "github.com/zahodi/noms/cmd"
+  "github.com/zahodi/noms-api/cmd"
 
 )
 
