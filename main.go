@@ -20,4 +20,5 @@ func main() {
 	if _, ok := sp.GetDataset().MaybeHeadValue(); !ok {
 		fmt.Fprintf(os.Stdout, "head is empty\n")
 	}
+  cmd.Test()
 }
